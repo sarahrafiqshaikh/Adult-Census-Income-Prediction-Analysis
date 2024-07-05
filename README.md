@@ -34,9 +34,9 @@ ydata-profiling
 
 # How to Use
 
-Clone the repository
-Open the Jupyter notebook to view the code and analysis
-Read the Word document for a detailed report of findings
+Clone the repository</br>
+Open the Jupyter notebook to view the code and analysis </br>
+Read the Word document for a detailed report of findings 
 
 
 # Author
