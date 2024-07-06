@@ -25,12 +25,15 @@ ydata-profiling
 
 # Key Findings
 
-##### Higher education levels are associated with higher incomes
-##### Males are more represented in both income categories
-##### Married individuals are more likely to earn >$50K
-##### Private sector employees have the highest representation
-##### Professional and executive occupations are linked to higher incomes
-##### White people are more in both earning more than and less than 50K where as other races are lesser
+##### Males are more likely to earn more than $50K compared to females. And are represented more in both  income catogories
+##### Private sector employees are more likely to earn more than $50K., and have higher counts in both income categories (<= $50K and > $50K).
+##### There is a notable racial disparity, with White individuals have the highest counts in both income categories, Where as other races are lesser
+##### Undergraduates mostly earn more than $50K, while high school graduates are the majority in the <= $50K category.
+##### Professional and executive occupation are more likely to earn more than $50K.
+##### Married individuals, especially those who are husbands, tend to have higher incomes.
+
+
+
 
 # How to Use
 
