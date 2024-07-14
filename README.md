@@ -10,18 +10,18 @@ Link: https://www.kaggle.com/datasets/uciml/adult-census-income
 
 # Files in the Repository
 
-adult_census_income_analysis.ipynb: Jupyter notebook containing the analysis code
-adult_census_income_report.docx: Detailed report of the analysis
-README.md: This file, providing an overview of the project
+- 'adult_census_income_analysis.ipynb': Jupyter notebook containing the analysis code
+- 'adult_census_income_report.docx': Detailed report of the analysis
+- 'README.md': This file, providing an overview of the project
 
 # Tools and Libraries Used
 
-Python
-Pandas
-Matplotlib
-Seaborn
-Plotly
-ydata-profiling
+- Python
+- Pandas
+- Matplotlib
+- Seaborn
+- Plotly
+- ydata-profiling
 
 # Key Findings
 
