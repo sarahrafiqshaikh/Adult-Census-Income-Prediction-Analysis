@@ -43,4 +43,4 @@ Read the Word document for a detailed report of findings
 
 
 # Author
-##### [Sarah Rafiq Shaikh]
+##### Sarah Rafiq Shaikh
